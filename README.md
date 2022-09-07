@@ -1,6 +1,6 @@
 # Music Paint
 
-This is a little web audio experiment where you can paint music. [Demo](https://terabaud.github.io/music-paint)
+This is a little web audio experiment where you can paint music. [Demo](https://learosema.github.io/music-paint)
 
 Every stroke makes some noise. Either sine, square, triangle, sawtooth or white noise. 
 
